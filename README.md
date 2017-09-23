@@ -24,14 +24,16 @@ For the details of installing above packages refer to it's github ![repository](
 3. Download TRUS and place it inside the "/model/syntaxnet/" directory of Syntaxnet.
 
 4. To use TRUS, type this in the terminal:
-   
-    > python2 TRUS.pyc
-   
+
+```   
+ > python2 TRUS.pyc
+```
 
 ### Example:
 
+```
 > python2 TRUS.pyc
- 
+``` 
 
       Developed by: Mr.Ravin Kumar.  Email id: mr.ravin_kumar@hotmail.com
       Linkedin: https://www.linkedin.com/in/ravinkumar21 
@@ -40,8 +42,10 @@ For the details of installing above packages refer to it's github ![repository](
 
       
 ### Output:
- 
+
+ ```
        ['cat','sat','mat',1]
+ ```      
        
 The last value here, i.e. 1 is of no use for now, but since this software is under development, It is left for prioritization. 
 Right now, you will receive all relations of same priority (here priority means, Possibility that information is complete).

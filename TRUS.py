@@ -27,7 +27,7 @@ def parse_read(filename):
         if i>=2:
             val.append(dat_read[i][:-1])
             continue
-        if i==0:
+        elif i==0:  ## previously: if i==0:
             lst_val.append(dat_read[i][7:-1])
             continue
         else:

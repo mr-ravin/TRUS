@@ -19,7 +19,7 @@ Developer: Mr.Ravin Kumar
 
 2. Install Syntaxnet.
 
-For the details of installing above packages refer to it's github ![repository](https://github.com/tensorflow/models/tree/master/syntaxnet)
+For the details of installing above packages refer to it's github ![repository](https://github.com/tensorflow/models/tree/master/research/syntaxnet)
 
 3. Download TRUS and place it inside the "/model/syntaxnet/" directory of Syntaxnet.
 

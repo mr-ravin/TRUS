@@ -41,7 +41,7 @@ For the details of installing above packages refer to it's github ![repository](
       Developed by: Mr.Ravin Kumar.  Email id: mr.ravin_kumar@hotmail.com
       Linkedin: https://www.linkedin.com/in/ravinkumar21 
       enter sentence:
-      Cat sat on a mat
+      cat sat on a mat
 
       
 ### Output:

@@ -6,13 +6,16 @@ It contains a program written in python 2.7 , which provides triple relations fr
 
 Developer: Mr.Ravin Kumar
 
-[Email id:](mr.ravin_kumar@hotmail.com)
+[Email id: mr.ravin_kumar@hotmail.com](mr.ravin_kumar@hotmail.com)
 
-[Linkedin:](https://www.linkedin.com/in/ravinkumar21/)
+[Linkedin: https://www.linkedin.com/in/ravinkumar21/](https://www.linkedin.com/in/ravinkumar21/)
 
 
-## TRUS is designed with the aim of providing triple relations. It is used over syntaxnet to retrieve the triple relations. 
+### TRUS is designed with the aim of providing triple relations. It is used over syntaxnet to retrieve the triple relations. 
 
+## Working Demonstration
+
+[![Working Demonstration](https://github.com/mr-ravin/TRUS/blob/master/TRUS.gif)](https://github.com/mr-ravin/TRUS/blob/master/TRUS.gif)
 ### Installation Steps:-
 
 1. Install python 2.7
@@ -21,7 +24,7 @@ Developer: Mr.Ravin Kumar
 
 For the details of installing above packages refer to it's github ![repository](https://github.com/tensorflow/models/tree/master/research/syntaxnet)
 
-3. Download TRUS and place it inside the "/model/syntaxnet/" directory of Syntaxnet.
+3. Download TRUS and place "TRUS.py" inside the "/model/syntaxnet/" directory of Syntaxnet.
 
 4. To use TRUS, type this in the terminal:
 

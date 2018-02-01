@@ -97,7 +97,7 @@ for i in range(len(lst)):
 
 list_concat_nn_vb_subj_obj=[]
 for i in lst:
-  if i[2][1][0:2] =="VB" or i[2][1][0:2] =="VB" or i[2][2][1:5] =="subj" or i[2][2][1:4] =="obj":
+  if i[2][1][0:2] =="VB" or i[2][2][1:5] =="subj" or i[2][2][1:4] =="obj":
     list_concat_nn_vb_subj_obj.append(i)
 
 dat_lst=[]

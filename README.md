@@ -56,5 +56,5 @@ Otherwise, If I had removed ( Which I have not ) that condition from the softwar
 ['cat','' ,'',0 ] ......... ['cat ','','mat',0] ...etc too. 
 
 
-#### Note: Private Dock cloud can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar. 
+#### Note: TRUS can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar. 
 #### Email_id: mr.ravin_kumar@hotmail.com .

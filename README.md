@@ -54,3 +54,7 @@ The last value here, i.e. 1 is of no use for now, but since this software is und
 Right now, you will receive all relations of same priority (here priority means, Possibility that information is complete).
 Otherwise, If I had removed ( Which I have not ) that condition from the software, you may receive other relations like:
 ['cat','' ,'',0 ] ......... ['cat ','','mat',0] ...etc too. 
+
+
+#### Note: Private Dock cloud can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar. 
+#### Email_id: mr.ravin_kumar@hotmail.com .

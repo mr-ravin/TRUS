@@ -2,7 +2,7 @@
 
 ### TRUS is designed with the aim of providing triple relations. It is written in Python 2.7 ans is used over syntaxnet to retrieve the triple relations. 
 
-### Author: [Ravin Kumar](https://mr-ravin.github.io)
+#### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
 ## Working Demonstration
 

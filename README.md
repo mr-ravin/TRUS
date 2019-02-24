@@ -4,11 +4,7 @@ It contains a program written in python 2.7 , which provides triple relations fr
 
 # TRUS: Triple Relation Using Syntaxnet
 
-Developer: Mr.Ravin Kumar
-
-[Email id: mr.ravin_kumar@hotmail.com](mr.ravin_kumar@hotmail.com)
-
-[Linkedin: https://www.linkedin.com/in/ravinkumar21/](https://www.linkedin.com/in/ravinkumar21/)
+Author: [Ravin Kumar](https://mr-ravin.github.io)
 
 
 ### TRUS is designed with the aim of providing triple relations. It is used over syntaxnet to retrieve the triple relations. 

@@ -1,13 +1,8 @@
-# TRUS
-
-It contains a program written in python 2.7 , which provides triple relations from the sentences.
-
 # TRUS: Triple Relation Using Syntaxnet
 
-Author: [Ravin Kumar](https://mr-ravin.github.io)
+### TRUS is designed with the aim of providing triple relations. It is written in Python 2.7 ans is used over syntaxnet to retrieve the triple relations. 
 
-
-### TRUS is designed with the aim of providing triple relations. It is used over syntaxnet to retrieve the triple relations. 
+### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
 ## Working Demonstration
 

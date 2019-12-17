@@ -46,5 +46,4 @@ Right now, you will receive all relations of same priority (here priority means,
 Otherwise, If I had removed ( Which I have not ) that condition from the software, you may receive other relations like:
 ['cat','' ,'',0 ] ......... ['cat ','','mat',0] ...etc too. 
 
-
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author. 
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!

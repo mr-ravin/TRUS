@@ -1,8 +1,10 @@
 # TRUS: Triple Relation Using Syntaxnet
 
-### TRUS is designed with the aim of providing triple relations. It is written in Python 2.7 and is used over syntaxnet to retrieve the triple relations. 
+**TRUS** is designed with the aim of providing triple relations. It is written in Python 2.7 and is used over syntaxnet to retrieve the triple relations. 
 
-#### Author: [Ravin Kumar](https://mr-ravin.github.io)
+**Author**: [Ravin Kumar](https://mr-ravin.github.io)
+
+---
 
 ## Working Demonstration
 
@@ -45,6 +47,8 @@ The last value here, i.e. 1 is of no use for now, but since this software is und
 Right now, you will receive all relations of same priority (here priority means, Possibility that information is complete).
 Otherwise, If I had removed ( Which I have not ) that condition from the software, you may receive other relations like:
 ['cat','' ,'',0 ] ......... ['cat ','','mat',0] ...etc too. 
+
+---
 
 ```python
 Copyright (c) 2017 Ravin Kumar
